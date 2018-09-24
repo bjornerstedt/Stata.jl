@@ -1,6 +1,6 @@
 module Stata
 
-using Serialization, DataFrames
+import Serialization, DataFrames
 
 export hello, domath, greet
 
